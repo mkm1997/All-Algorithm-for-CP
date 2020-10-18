@@ -1,4 +1,4 @@
-# All-Algorithm-for-CP
+
 
 # Algorithms & data structures project
 
@@ -6,4 +6,5 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 # Running an algorithm implementation
 
 To compile and run any of the algorithms here, you just nedd gcc compiler.
+
 
